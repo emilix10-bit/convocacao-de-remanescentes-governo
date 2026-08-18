@@ -13,19 +13,19 @@
 
 **Passo 1:** Na linha do tempo do processo, situe-se em “Remanescentes” e selecione o ícone **+** (Operar item).
 
-![Tela 06](Imagens/tela06-operar-item.png)
+![Tela 06](Imagens/tela06-inicio-de-convocacao.png)
 
 **Passo 2:** Selecione a opção “Abrir convocação de remanescentes”.
 
-![Tela 07](Imagens/tela07-abrir-convocacao-remanescentes.png)
+![Tela 07](Imagens/tela07-iniciar-convocacao.png)
 
 **Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável.
 
-![Tela 08](Imagens/tela08-preencher-dados-convocacao.png)
+![Tela 08](Imagens/tela08-dados-da-convocacao.png)
 
 **Passo 4:** Aguarde o decurso do prazo para análise de fornecedores interessados.
 
-![Tela 09](Imagens/tela09-aguardar-prazo.png)
+![Tela 09](Imagens/tela09-convocacao-iniciada.png)
 
 !!! note "Etapas da Convocação"
     A convocação de remanescentes acontecerá em duas etapas sucessivas:
