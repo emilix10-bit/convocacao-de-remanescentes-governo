@@ -41,11 +41,11 @@ A solicitação foi enviada ao fornecedor.
 
 ![Tela 16](Imagens/tela16-anexos-recebidos.png)
 
-**Passo 4:** Para o envio de mensagens ao fornecedor em análise, acesse a aba chat e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar o chat com o fornecedor utilizando o botão “Desabilitar chat com participante”.
+**Passo 4:** Para o envio de mensagens ao fornecedor em análise, acesse a aba "Chat" e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar o chat com o fornecedor utilizando o botão “Desabilitar chat com participante”.
 
 ![Tela 17](Imagens/tela17-chat-com-fornecedores.png)
 
-**Passo 5:** Para desclassificar o participante, acione o botão “Desclassificar”.
+**Passo 5:** Para desclassificar o participante, clique em “Desclassificar”.
 
 ![Tela 18](Imagens/tela18-desclassificar-fornecedor.png)
 
@@ -57,7 +57,7 @@ A opção pode ser desfeita acionando o botão “Desfazer desclassificação”
 
 ![Tela 20](Imagens/tela20-desfazer-desclassificacao.png)
 
-**Passo 6:** Para inabilitar o participante, acione o botão “Inabilitar”.
+**Passo 6:** Para inabilitar o participante, clique em “Inabilitar”.
 
 ![Tela 21](Imagens/tela21-inabilitar-fornecedor.png)
 
