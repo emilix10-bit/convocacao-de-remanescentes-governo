@@ -1,0 +1,103 @@
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
+  <span style="font-size: 14px; color: #555; font-weight: bold;">Tamanho do texto:</span>
+  <button onclick="diminuirFonte()" title="Diminuir texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A-</button>
+  <button onclick="resetarFonte()" title="Tamanho normal" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A</button>
+  <button onclick="aumentarFonte()" title="Aumentar texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A+</button>
+  
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
+    🖨️ Imprimir ou baixar esta página
+  </button>
+</div>
+
+# ANALISANDO FORNECEDORES – ACEITE PELO PREÇO DO VENCEDOR
+
+Decorrido o prazo para manifestação de interesse, o agente de contratação poderá passar à fase de análise. O sistema apresentará todos os fornecedores que se propuseram a assumir o remanescente pelo valor do vencedor.
+
+**Passo 1:** Acesse sua contratação com a linha do tempo em “Remanescentes”, selecionando “Operar item”.
+
+![Tela 10](Imagens/tela10-acesso-a-lista-de-fornecedores.png)
+
+A lista de fornecedores estará ordenada pela ordem em que deve ser analisada, considerando o posicionamento dos fornecedores na licitação original.
+
+![Tela 11](Imagens/tela11-lista-de-fornecedores.png)
+
+Na aba de proposta, são disponibilizadas as informações do item oferecido pelo fornecedor, bem como as opções de “Desclassificar”, “Inabilitar” e “Aceitar e habilitar pelas condições do vencedor”.
+
+![Tela 12](Imagens/tela12-opcoes-para-selecao.png)
+
+**Passo 2:** Para solicitar anexos do fornecedor, selecione a aba “Anexos” e selecione “Solicitar envio de anexos”.
+
+![Tela 13](Imagens/tela13-aba-de-anexos.png)
+
+Preencha data e hora limite, bem como detalhamento dos anexos solicitados e confirme.
+
+![Tela 14](Imagens/tela14-opcoes-para-anexos.png)
+
+A solicitação foi enviada ao fornecedor.
+
+![Tela 15](Imagens/tela15-anexo-solicitado.png)
+
+**Passo 3:** Quando o prazo definido terminar ou o fornecedor enviar os documentos, o sistema exibirá que o processo foi encerrado. Acesse a aba de anexos para visualizar os documentos.
+
+![Tela 16](Imagens/tela16-anexos-recebidos.png)
+
+**Passo 4:** Para o envio de mensagens ao fornecedor em análise, acesse a aba chat e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar o chat com o fornecedor utilizando o botão “Desabilitar chat com participante”.
+
+![Tela 17](Imagens/tela17-chat-com-fornecedores.png)
+
+**Passo 5:** Para desclassificar o participante, acione o botão “Desclassificar”.
+
+![Tela 18](Imagens/tela18-desclassificar-fornecedor.png)
+
+Preencha o campo de justificativa e confirme.
+
+![Tela 19](Imagens/tela19-justificativa-desclassificacao.png)
+
+A opção pode ser desfeita acionando o botão “Desfazer desclassificação”.
+
+![Tela 20](Imagens/tela20-desfazer-desclassificacao.png)
+
+**Passo 6:** Para inabilitar o participante, acione o botão “Inabilitar”.
+
+![Tela 21](Imagens/tela21-inabilitar-fornecedor.png)
+
+Preencha o campo de justificativa e confirme.
+
+![Tela 22](Imagens/tela22-justificativa-inabilitacao.png)
+
+A opção pode ser desfeita acionando o botão “Desfazer inabilitação”.
+
+![Tela 23](Imagens/tela23-desfazer-inabilitacao.png)
+
+**Passo 7:** Para aceitar o fornecedor, selecione o botão “Aceitar e habilitar pelas condições do vencedor”.
+
+![Tela 24](Imagens/tela24-aceitar-e-habilitar-fornecedor.png)
+
+Preencha a justificativa e salve.
+
+![Tela 25](Imagens/tela25-justificativa-aceitar-e-habilitar.png)
+
+A opção pode ser desfeita acionando o botão “Desfazer aceite e habilitação” e preenchendo a justificativa.
+
+![Tela 26](Imagens/tela26-justificativa-para-desfazer-aceite.png)
+
+![Tela 27](Imagens/tela27-analise-de-proximo-fornecedor.png)
+
+**Passo 8:** Caso o processo tenha retornado vencedor, selecione a opção “Encerrar convocação de remanescente”.
+
+![Tela 28](Imagens/tela28-encerrar-convocacao-de-remanescentes.png)
+
+Preencha o campo de justificativa.
+
+![Tela 29](Imagens/tela29-convocacao-encerrada.png)
+
+**Passo 9:** Caso o processo não tenha retornado vencedor, o sistema disponibilizará a opção “Convocar remanescentes para negociação” para seguir para a próxima etapa.
+
+![Tela 30](Imagens/tela30-iniciar-negociacao-em-item.png)
+
+<br>
+<div style="text-align: right; margin: 10px 0;">
+  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Imprimir ou baixar esta página
+  </button>
+</div>
