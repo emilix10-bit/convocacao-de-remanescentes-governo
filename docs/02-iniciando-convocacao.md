@@ -11,7 +11,7 @@
 
 # INICIANDO UMA CONVOCAÇÃO DE REMANESCENTES
 
-**Passo 1:** Na linha do tempo do processo, situe-se em “Remanescentes” e selecione o ícone **+** (Operar item).
+**Passo 1:** Na linha do tempo do processo, clique em “Remanescentes” e selecione o ícone **+** (Operar item).
 
 ![Tela 06](Imagens/tela06-inicio-de-convocacao.png)
 
@@ -19,7 +19,7 @@
 
 ![Tela 07](Imagens/tela07-iniciar-convocacao.png)
 
-**Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável.
+**Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável. Em seguida, clique em "Confirmar"
 
 ![Tela 08](Imagens/tela08-dados-da-convocacao.png)
 
