@@ -9,25 +9,31 @@
   </button>
 </div>
 
-# MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
+# INICIANDO UMA CONVOCAÇÃO DE REMANESCENTES
 
-A convocação de remanescentes acontecerá em duas etapas sucessivas:
+**Passo 1:** Na linha do tempo do processo, situe-se em “Remanescentes” e selecione o ícone **+** (Operar item).
 
-* Aceite, para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
-* Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
+![Tela 06](Imagens/tela06-operar-item.png)
 
-**Passo 1:** Para formalizar sua intenção de participar em uma convocação de remanescentes, selecione o item em que deseja atuar e clique em “Operar item”.
+**Passo 2:** Selecione a opção “Abrir convocação de remanescentes”.
 
-![Tela 09](./Imagens/tela09-operar-item.png)
+![Tela 07](Imagens/tela07-abrir-convocacao-remanescentes.png)
 
-**Passo 2:** Leia as informações sobre o item, pois os valores podem ser atualizados.
+**Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável.
 
-![Tela 10](./Imagens/tela10-informacoes-do-item.png)
+![Tela 08](Imagens/tela08-preencher-dados-convocacao.png)
 
-**Passo 3:** No campo “Proposta”, será solicitada a manifestação interesse em participar da convocação de remanescentes na condição atual.
+**Passo 4:** Aguarde o decurso do prazo para análise de fornecedores interessados.
 
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
+![Tela 09](Imagens/tela09-aguardar-prazo.png)
 
+!!! note "Etapas da Convocação"
+    A convocação de remanescentes acontecerá em duas etapas sucessivas:
+    
+    1. **Aceite para assumir o contrato pelo mesmo preço do licitante vencedor** do processo licitatório;
+    2. Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de **aceite para assumir o contrato após negociação de valor**, incluindo a manutenção da proposta original do licitante interessado.
+
+<br>
 <div style="text-align: right; margin: 10px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir ou baixar esta página
