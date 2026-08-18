@@ -11,37 +11,25 @@
 
 # ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
 
-**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”. 
+**Passo 1:** Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
 
 ![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
 
-**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
+**Passo 2:** Escolha o perfil **Governo** e clique em “Entrar com Gov.br”.
 
-![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
+![Tela 02](Imagens/tela02-login.png)
 
-Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para acessar o sistema.
+**Passo 3:** Na área de trabalho do usuário Governo, localize sua contratação homologada na coluna “Compras Finalizadas”.
 
-![Tela 03](Imagens/tela03-acesso-fornecedor-estrangeiro.png)
+![Tela 03](Imagens/tela03-area-de-trabalho.png)
 
-**Passo 3:** No menu “Compras”, acesse a opção “Licitação e dispensas (novo)”.
+**Passo 4:** Selecione sua contratação e acesse “Visualizar atas e termos”.
 
-![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
+![Tela 04](Imagens/tela04-acesso-a-contratacao.png)
 
-**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita) (tela 05)
+**Passo 5:** Localize a linha do tempo, com a opção “Remanescentes” disponível para acesso.
 
-![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
-
-ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da contratação desejada.
-
-![Tela 06](Imagens/tela06-acesso-pela-area-de-pesquisa.png)
-
-**Passo 5:** Acesse a contratação clicando na opção “Acompanhar compra”.
-
-![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
-
-**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
-
-![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
+![Tela 05](Imagens/tela05-linha-do-tempo.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
