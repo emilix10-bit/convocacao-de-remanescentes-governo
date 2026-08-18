@@ -25,7 +25,7 @@ Na aba de proposta, são disponibilizadas as informações do item oferecido pel
 
 ![Tela 12](Imagens/tela12-opcoes-para-selecao.png)
 
-**Passo 2:** Para solicitar anexos do fornecedor, selecione a aba “Anexos” e selecione “Solicitar envio de anexos”.
+**Passo 2:** Para solicitar anexos do fornecedor, selecione a aba “Anexos” e depois “Solicitar envio de anexos”.
 
 ![Tela 13](Imagens/tela13-aba-de-anexos.png)
 
