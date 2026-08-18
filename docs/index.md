@@ -11,7 +11,7 @@
 
 <p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
 
-# Como realizar uma convocação de remanescentes no Compras.gov.br
+# Convocação de remanescentes no sistema Compras.gov.br
 
 Utilize o Compras.gov.br para formalizar uma convocação de remanescentes em seus processos de contratação. Após a homologação do seu processo de contratação, você poderá acessar novamente seu processo de contratação para iniciar a convocação de remanescentes.
 
