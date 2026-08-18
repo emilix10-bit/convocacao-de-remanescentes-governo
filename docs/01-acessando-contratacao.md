@@ -11,7 +11,7 @@
 
 # ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
 
-**Passo 1:** Acesse o (Portal de Compras do Governo Federal)[https://www.gov.br/compras/pt-br] e clique em “Acesso ao Sistema”.
+**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”.
 
 ![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
 
