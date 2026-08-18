@@ -19,7 +19,7 @@ Utilize o Compras.gov.br para formalizar uma convocação de remanescentes em se
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
 
-Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas.
+Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
 
 * **Padrão - escolha a seção específica que quer acessar:**
     * [1. Acessando uma contratação homologada](01-acessando-contratacao.md)
