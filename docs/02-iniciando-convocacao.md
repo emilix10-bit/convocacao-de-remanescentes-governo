@@ -11,24 +11,24 @@
 
 # INICIANDO UMA CONVOCAÇÃO DE REMANESCENTES
 
-**Passo 1:** Na linha do tempo do processo, clique em “Remanescentes” e selecione o ícone **+** (Operar item).
+**Passo 1:** Na linha do tempo da contratação, clique em “Remanescentes”. Em seguida, clique no ícone **+** (Operar item).
 
 ![Tela 06](Imagens/tela06-inicio-de-convocacao.png)
 
-**Passo 2:** Selecione a opção “Abrir convocação de remanescentes”.
+**Passo 2:** Clique em “Abrir convocação de remanescentes”.
 
 ![Tela 07](Imagens/tela07-iniciar-convocacao.png)
 
-**Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável. Em seguida, clique em "Confirmar"
+**Passo 3:** Preencha os dados da convocação, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações. Em seguida, clique em “Confirmar”.
 
 ![Tela 08](Imagens/tela08-dados-da-convocacao.png)
 
-**Passo 4:** Aguarde o decurso do prazo para análise de fornecedores interessados.
+**Passo 4:** Aguarde o final do prazo para análise de fornecedores interessados.
 
 ![Tela 09](Imagens/tela09-convocacao-iniciada.png)
 
 !!! note "Etapas da Convocação"
-    A convocação de remanescentes acontecerá em duas etapas sucessivas:
+    A convocação de remanescentes acontecerá em duas etapas:
     
     1. **Aceite para assumir o contrato pelo mesmo preço do licitante vencedor** do processo licitatório;
     2. Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de **aceite para assumir o contrato após negociação de valor**, incluindo a manutenção da proposta original do licitante interessado.
