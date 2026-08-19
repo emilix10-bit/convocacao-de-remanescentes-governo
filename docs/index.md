@@ -11,7 +11,9 @@
 
 # Convocação de remanescentes no sistema Compras.gov.br
 
-Utilize o Compras.gov.br para formalizar uma convocação de remanescentes em seus processos de contratação. Após a homologação do seu processo de contratação, você poderá acessar novamente seu processo de contratação para iniciar a convocação de remanescentes.
+Use o sistema Compras.gov.br para formalizar a convocação de remanescentes. 
+
+Após a homologação do processo de contratação, caso necessário, é possível acessá-lo novamente no sistema e iniciar a convocação do próximo fornecedor classificado na licitação. 
 
 ---
 
