@@ -11,7 +11,7 @@
 
 # ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
 
-**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”.
+**Passo 1:** No [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br), clique em “Acesso ao Sistema”.
 
 ![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
 
@@ -27,7 +27,7 @@
 
 ![Tela 04](Imagens/tela04-acesso-a-contratacao.png)
 
-**Passo 5:** Localize a linha do tempo, com a opção “Remanescentes” disponível para acesso.
+**Passo 5:** Na linha do tempo da contratação, clique em “Remanescentes”.
 
 ![Tela 05](Imagens/tela05-linha-do-tempo.png)
 
