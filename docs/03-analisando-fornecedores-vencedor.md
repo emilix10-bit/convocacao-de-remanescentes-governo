@@ -11,25 +11,25 @@
 
 # ANALISANDO FORNECEDORES – ACEITE PELO PREÇO DO VENCEDOR
 
-Decorrido o prazo para manifestação de interesse, o agente de contratação poderá passar à fase de análise. O sistema apresentará todos os fornecedores que se propuseram a assumir o remanescente pelo valor do vencedor.
+Após o final do prazo final para manifestação de interesse, o agente de contratação poderá passar à fase de análise. O sistema apresentará todos os fornecedores que se propuseram a assumir o remanescente do contrato pelo valor do vencedor da licitação.
 
-**Passo 1:** Acesse sua contratação com a linha do tempo em “Remanescentes”, selecionando “Operar item”.
+**Passo 1:** Acesse sua contratação. Na linha do tempo, clique em “Remanescentes” e depois em “Operar item”.
 
 ![Tela 10](Imagens/tela10-acesso-a-lista-de-fornecedores.png)
 
-A lista de fornecedores estará ordenada pela ordem em que deve ser analisada, considerando o posicionamento dos fornecedores na licitação original.
+A lista de fornecedores é apresentada na ordem em que deve ser analisada, considerando a classificação dos fornecedores na licitação original.
 
 ![Tela 11](Imagens/tela11-lista-de-fornecedores.png)
 
-Na aba de proposta, são disponibilizadas as informações do item oferecido pelo fornecedor, bem como as opções de “Desclassificar”, “Inabilitar” e “Aceitar e habilitar pelas condições do vencedor”.
+Na aba de proposta, estão as informações do item oferecido pelo fornecedor, além das opções de “Desclassificar”, “Inabilitar” e “Aceitar e habilitar pelas condições do vencedor”.
 
 ![Tela 12](Imagens/tela12-opcoes-para-selecao.png)
 
-**Passo 2:** Para solicitar anexos do fornecedor, selecione a aba “Anexos” e depois “Solicitar envio de anexos”.
+**Passo 2:** Para solicitar anexos do fornecedor, na aba “Anexos”, clique em “Solicitar envio de anexos”.
 
 ![Tela 13](Imagens/tela13-aba-de-anexos.png)
 
-Preencha data e hora limite, bem como detalhamento dos anexos solicitados e confirme.
+Preencha data e hora limite, descreva os anexos solicitados e confirme.
 
 ![Tela 14](Imagens/tela14-opcoes-para-anexos.png)
 
@@ -37,15 +37,19 @@ A solicitação foi enviada ao fornecedor.
 
 ![Tela 15](Imagens/tela15-anexo-solicitado.png)
 
-**Passo 3:** Quando o prazo definido terminar ou o fornecedor enviar os documentos, o sistema exibirá que o processo foi encerrado. Acesse a aba de anexos para visualizar os documentos.
+**Passo 3:** Quando o prazo definido terminar ou o fornecedor enviar os documentos, o sistema exibirá que o processo foi encerrado. 
 
 ![Tela 16](Imagens/tela16-anexos-recebidos.png)
 
-**Passo 4:** Para o envio de mensagens ao fornecedor em análise, acesse a aba "Chat" e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar o chat com o fornecedor utilizando o botão “Desabilitar chat com participante”.
+Acesse a aba de anexos para visualizar os documentos.
+
+![Tela 16-A](Imagens/tela16-a-anexos-enviados)
+
+**Passo 4:** Para enviar mensagens ao fornecedor que está sendo analisado, acesse a aba “Chat” e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar a conversa com o fornecedor usando o botão “Desabilitar chat com participante”.
 
 ![Tela 17](Imagens/tela17-chat-com-fornecedores.png)
 
-**Passo 5:** Para desclassificar o participante, clique em “Desclassificar”.
+**Passo 5:** Para desclassificar o fornecedor, clique em “Desclassificar”.
 
 ![Tela 18](Imagens/tela18-desclassificar-fornecedor.png)
 
