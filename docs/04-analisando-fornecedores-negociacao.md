@@ -11,27 +11,27 @@
 
 # ANALISANDO FORNECEDORES – ACEITE PARA NEGOCIAÇÃO
 
-**Passo 1:** Para iniciar uma convocação para negociação com fornecedores, acesse o item clicando em “Operar item”.
+**Passo 1:** Para iniciar uma convocação para negociação com fornecedores, acesse o item clicando em “+ (Operar item)”.
 
 ![Tela 30](Imagens/tela30-iniciar-negociacao-em-item.png)
 
-**Passo 2:** Acione a opção “Convocar remanescentes para negociação”.
+**Passo 2:** Clique em “Convocar remanescentes para negociação”.
 
 ![Tela 31](Imagens/tela31-iniciar-negociacao.png)
 
-**Passo 3:** Defina o prazo para a manifestação de interesse para negociação de preços.
+**Passo 3:** Preencha o campo “Data limite para convocação de remanescente” para definir o prazo para manifestação de interesse pelos fornecedores e confirme. 
 
 ![Tela 32](Imagens/tela32-definir-prazos.png)
 
-**Passo 4:** O prazo final foi definido. Caso deseje alterar data e/ou horário final, acione a opção “Alterar data limite para negociação”.
+**Passo 4:** O prazo final foi definido. Caso deseje alterar data e/ou horário final, clique em “Alterar data limite para negociação”.
 
 ![Tela 33](Imagens/tela33-convocacao-iniciada.png)
 
-**Passo 5:** Finalizado o prazo dado aos fornecedores, retorne ao item selecionando a opção “Operar item”.
+**Passo 5:** Finalizado o prazo dado aos fornecedores, retorne ao item e clique em “Operar item”.
 
 ![Tela 34](Imagens/tela34-iniciar-negociacao-com-fornecedor.png)
 
-**Passo 6:** A lista de fornecedores estará ordenada pela ordem em que deve ser analisada, considerando o posicionamento dos fornecedores na licitação original.
+**Passo 6:** A lista de fornecedores estará na ordem em que deve ser analisada, considerando a classificação dos fornecedores na licitação original.
 
 ![Tela 35](Imagens/tela35-lista-de-fornecedores.png)
 
@@ -45,7 +45,7 @@ Para iniciar a negociação, expanda as informações do fornecedor e selecione 
 
 ![Tela 36](Imagens/tela36-iniciar-negociacao.png)
 
-Preencha os campos de “Valor sugerido”, “Justificativa” e confirme.
+Preencha os campos de “Valor sugerido” e “Justificativa” e confirme.
 
 ![Tela 37](Imagens/tela37-valor-negociado.png)
 
@@ -53,7 +53,7 @@ A negociação foi iniciada.
 
 ![Tela 38](Imagens/tela38-negociacao-iniciada.png)
 
-**Passo 7:** Caso o fornecedor faça uma contraproposta para a negociação, analise o pedido. Caso deseje iniciar uma nova negociação, selecione a opção “Negociar”.
+**Passo 7:** Caso o fornecedor faça uma contraproposta para a negociação, analise o pedido. Se preferir iniciar uma nova negociação, clique em “Negociar”.
 
 ![Tela 39](Imagens/tela39-segunda-negociacao.png)
 
@@ -61,11 +61,11 @@ Preencha os dados da nova negociação e confirme.
 
 ![Tela 40](Imagens/tela40-segunda-negociacao.png)
 
-Para finalizar o processo de seleção deste fornecedor, selecione “Aceitar e habilitar pelo valor negociado”.
+Caso aceite a contraproposta do fornecedor, clique em “Aceitar e habilitar pelo valor negociado”.
 
 ![Tela 41](Imagens/tela41-finalizar-processo.png)
 
-Preencha os campos em tela e finalize.
+Escreva a justificativa e confirme.
 
 ![Tela 42](Imagens/tela42-aceitar-remanescente.png)
 
@@ -73,7 +73,7 @@ Clique em “Encerrar convocação de remanescentes”.
 
 ![Tela 43](Imagens/tela43-encerrar-remanescente.png)
 
-Preencha os campos apresentados em tela e confirme.
+Escreva a justificativa e confirme.
 
 ![Tela 44](Imagens/tela44-encerrar-remanescente.png)
 
@@ -81,7 +81,7 @@ Preencha os campos apresentados em tela e confirme.
 
 ![Tela 45](Imagens/tela45-negociacao-fracassada.png)
 
-O agente responsável pela negociação poderá optar entre:
+O servidor público responsável pela negociação poderá escolher entre:
 
 * “Desfazer fracasso na negociação”, opção que reabrirá a negociação com este fornecedor;
 * Negociar com o próximo fornecedor habilitado para esta etapa;
@@ -89,7 +89,21 @@ O agente responsável pela negociação poderá optar entre:
 
 ![Tela 46](Imagens/tela46-desfazer-fracasso.png)
 
-**Passo 9:** Caso o fornecedor aceite a proposta, selecione “Aceitar e habilitar pelo valor negociado” (Tela 41), preencha os campos em tela e finalize (Tela 42). Clique em “Encerrar convocação de remanescentes” (Tela 43), preencha os campos apresentados em tela e confirme (Tela 44).
+**Passo 9:** Caso o fornecedor aceite a proposta, selecione “Aceitar e habilitar pelo valor negociado”.
+
+![Tela 41](Imagens/tela41-finalizar-processo.png)
+
+Escreva a justificativa e confirme.
+
+![Tela 42](Imagens/tela42-aceitar-remanescente.png)
+
+Clique em “Encerrar convocação de remanescentes”
+
+![Tela 43](tela43-encerrar-remanescente.png)
+
+Escreva a justificativa e confirme.
+
+![Tela 44](tela44-encerrar-remanescente.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
