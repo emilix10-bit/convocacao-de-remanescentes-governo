@@ -43,7 +43,7 @@ A solicitação foi enviada ao fornecedor.
 
 Acesse a aba de anexos para visualizar os documentos.
 
-![Tela 16A](Imagens/tela16-a-anexos-enviados)
+![Tela 16A](Imagens/tela16-a-anexos-enviados.png)
 
 **Passo 4:** Para enviar mensagens ao fornecedor que está sendo analisado, acesse a aba “Chat” e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar a conversa com o fornecedor usando o botão “Desabilitar chat com participante”.
 
@@ -83,7 +83,7 @@ Escreva a justificativa e confirme.
 
 A opção pode ser desfeita clicando em “Desfazer aceite e habilitação”.
 
-![Tela 26](Imagens/tela26-desfazer-aceite.png)
+![Tela 26](Imagens/tela26-justificativa-para-desfazer-aceite.png)
 
 Escreva a justificativa e confirme.
 
