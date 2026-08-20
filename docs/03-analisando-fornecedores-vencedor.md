@@ -43,7 +43,7 @@ A solicitação foi enviada ao fornecedor.
 
 Acesse a aba de anexos para visualizar os documentos.
 
-![Tela 16-A](Imagens/tela16-a-anexos-enviados)
+![Tela 16A](Imagens/tela16-a-anexos-enviados)
 
 **Passo 4:** Para enviar mensagens ao fornecedor que está sendo analisado, acesse a aba “Chat” e acompanhe a troca de mensagens. Caso seja necessário, é possível encerrar a conversa com o fornecedor usando o botão “Desabilitar chat com participante”.
 
