@@ -13,36 +13,33 @@
 
 ## CANCELANDO UMA CONVOCAÇÃO DE REMANESCENTES
 
-A qualquer momento, você poderá cancelar sua convocação de remanescentes.
+A convocação de remanescentes poderá ser cancelada a qualquer momento. Para isso, siga os passos abaixo: 
 
-**Passo 1:** Selecione a opção “Cancelar convocação de remanescente”.
+**Passo 1:** Clique em “Cancelar convocação de remanescente”.
 
 ![Tela 47](Imagens/tela47-cancelar-convocacao.png)
 
-**Passo 2:** Preencha o campo de justificativa para o cancelamento e salve.
+**Passo 2:** Escreva a justificativa para o cancelamento e confirme.
 
 ![Tela 48](Imagens/tela48-justificativa-cancelamento-de-convocacao.png)
 
 !!! warning "Atenção"
     Essa ação não poderá ser desfeita. Caso seja necessário, inicie um novo processo de convocação de remanescentes.
 
----
 
-## HISTÓRICO DE CONVOCAÇÃO
-
-Na aba “Histórico de convocação”, você poderá visualizar as informações de todas as convocações de remanescentes já finalizadas e fazer download de relatório de cada ocorrência.
+Na aba “Histórico de convocações”, você pode visualizar as informações de todas as convocações de remanescentes já finalizadas e fazer download do relatório de cada uma delas.
 
 ![Tela 49](Imagens/tela49-historico.de.convocacoes.png)
 
----
+
 
 ## ALTERANDO A DATA LIMITE DA CONVOCAÇÃO
 
-Caso seja necessário alterar data ou horário limite da convocação, selecione a opção “Alterar data limite para convocação”.
+Caso seja necessário alterar data ou horário limite da convocação, clique em “Alterar data limite para convocação”.
 
 ![Tela 50](Imagens/tela50-alterar-data-limite.png)
 
-Preencha os novos dados da data limite e o campo de justificativa, e salve.
+Escreva a nova data e horário, justifique e confirme.
 
 ![Tela 51](Imagens/tela51-nova-data-e-justificativa.png)
 
