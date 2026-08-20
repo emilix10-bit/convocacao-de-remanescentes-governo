@@ -53,51 +53,56 @@ Acesse a aba de anexos para visualizar os documentos.
 
 ![Tela 18](Imagens/tela18-desclassificar-fornecedor.png)
 
-Preencha o campo de justificativa e confirme.
+Escreva a justificativa e confirme.
 
 ![Tela 19](Imagens/tela19-justificativa-desclassificacao.png)
 
-A opção pode ser desfeita acionando o botão “Desfazer desclassificação”.
+A opção pode ser desfeita clicando em “Desfazer desclassificação”.
 
 ![Tela 20](Imagens/tela20-desfazer-desclassificacao.png)
 
-**Passo 6:** Para inabilitar o participante, clique em “Inabilitar”.
+**Passo 6:** Para inabilitar o fornecedor, clique em “Inabilitar”.
 
 ![Tela 21](Imagens/tela21-inabilitar-fornecedor.png)
 
-Preencha o campo de justificativa e confirme.
+Escreva a justificativa e confirme.
 
 ![Tela 22](Imagens/tela22-justificativa-inabilitacao.png)
 
-A opção pode ser desfeita acionando o botão “Desfazer inabilitação”.
+A opção pode ser desfeita clicando em “Desfazer inabilitação”.
 
 ![Tela 23](Imagens/tela23-desfazer-inabilitacao.png)
 
-**Passo 7:** Para aceitar o fornecedor, selecione o botão “Aceitar e habilitar pelas condições do vencedor”.
+**Passo 7:** Para aceitar o fornecedor, clique em “Aceitar e habilitar pelas condições do vencedor”.
 
-![Tela 24](Imagens/tela24-aceitar-e-habilitar-fornecedor.png)
+![Tela 24](Imagens/tela24-aceitar-e-habilitar.png)
 
-Preencha a justificativa e salve.
+Escreva a justificativa e confirme.
 
 ![Tela 25](Imagens/tela25-justificativa-aceitar-e-habilitar.png)
 
-A opção pode ser desfeita acionando o botão “Desfazer aceite e habilitação” e preenchendo a justificativa.
+A opção pode ser desfeita clicando em “Desfazer aceite e habilitação”.
 
-![Tela 26](Imagens/tela26-justificativa-para-desfazer-aceite.png)
+![Tela 26](Imagens/tela26-desfazer-aceite.png)
 
-![Tela 27](Imagens/tela27-analise-de-proximo-fornecedor.png)
+Escreva a justificativa e confirme.
 
-**Passo 8:** Caso o processo tenha retornado vencedor, selecione a opção “Encerrar convocação de remanescente”.
+![Tela 27](Imagens/tela26-justificativa-para-desfazer-aceite.png)
 
-![Tela 28](Imagens/tela28-encerrar-convocacao-de-remanescentes.png)
 
-Preencha o campo de justificativa.
+**Passo 8:** Caso esteja tudo certo e você tenha um fornecedor habilitado, clique em “Encerrar convocação de remanescente”.
+
+![Tela 28](Imagens/tela27-encerrar-convocacao-remanescente.png)
+
+Escreva a justificativa e confirme.
 
 ![Tela 29](Imagens/tela29-convocacao-encerrada.png)
 
-**Passo 9:** Caso o processo não tenha retornado vencedor, o sistema disponibilizará a opção “Convocar remanescentes para negociação” para seguir para a próxima etapa.
+**Passo 9:** Se não a primeira convocação de remanescentes não tiver êxito, clique em "+ (Operar item)" e depois em “Convocar remanescentes para negociação” e repita os passos com o próximo fornecedor.
 
 ![Tela 30](Imagens/tela30-iniciar-negociacao-em-item.png)
+
+![Tela 31](Imagens/tela31-iniciar-negociacao.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
