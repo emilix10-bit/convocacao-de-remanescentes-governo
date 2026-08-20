@@ -99,11 +99,11 @@ Escreva a justificativa e confirme.
 
 Clique em “Encerrar convocação de remanescentes”
 
-![Tela 43](tela43-encerrar-remanescente.png)
+![Tela 43](Imagens/tela43-encerrar-remanescente.png)
 
 Escreva a justificativa e confirme.
 
-![Tela 44](tela44-encerrar-remanescente.png)
+![Tela 44](Imagens/tela44-encerrar-remanescente.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
