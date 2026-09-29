@@ -29,7 +29,7 @@ Você pode acessar as etapas específicas que quer consultar ou ver o manual com
     * [5. Cancelando, histórico e alteração de data](05-cancelando-historico-data.md)
 
 * **Página única:**
-    * [🖨️ Todo o manual em uma tela (Versão para Impressão)](manual-completo.md)
+    * [🖨️ Todo o manual em uma tela](manual-completo.md)
 
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
